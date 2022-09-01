@@ -6,9 +6,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         </Head>
-        <Script>
-        <script src="https://cdn.tailwindcss.com"></script>
-      </Script>
+        <Script  src="https://cdn.tailwindcss.com"/>
 <div class="bg-white py-12">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <div class="lg:text-center">
